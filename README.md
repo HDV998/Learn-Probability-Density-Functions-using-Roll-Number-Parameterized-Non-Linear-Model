@@ -36,4 +36,4 @@ Transform the NO2 air quality feature using a personalized non-linear function, 
 
 ## 👤 Author
 - **Roll Number:** *102303494*
-- **Assignment:** 1 — PDF Estimation with Non-Linear Transformation
+- **Assignment:** PDF Estimation with Non-Linear Transformation
